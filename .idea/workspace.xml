@@ -5,6 +5,7 @@
     <ignored path="hellogit.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/progam.php" changelist="fef39632-aee9-4f31-a12a-941a9670162d" time="1373344685883" ignored="false" />
+    <file path="/utils.php" changelist="fef39632-aee9-4f31-a12a-941a9670162d" time="1373350827397" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="progam.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="progam.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/progam.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="2" selection-start="27" selection-end="27" vertical-scroll-proportion="0.14285715">
+            <state line="2" column="2" selection-start="27" selection-end="27" vertical-scroll-proportion="-1.3571428">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utils.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="2" selection-start="100" selection-end="100" vertical-scroll-proportion="0.71428573">
               <folding />
             </state>
           </provider>
@@ -44,6 +54,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/progam.php" />
+        <option value="$PROJECT_DIR$/utils.php" />
       </list>
     </option>
   </component>
@@ -111,11 +122,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Script.progam.php">
+  <component name="RunManager" selected="PHP Web Application.hellogitweb">
     <configuration default="false" name="progam.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/progam.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
       <method />
     </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
@@ -124,8 +140,12 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="hellogitweb" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="hellogitweb" start_url="/hellogit/program.php">
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.progam.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Web Application.hellogitweb" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -144,7 +164,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1004" height="600" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -228,7 +248,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/progam.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="27" selection-end="27" vertical-scroll-proportion="0.14285715">
+        <state line="2" column="2" selection-start="27" selection-end="27" vertical-scroll-proportion="-1.3571428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="100" selection-end="100" vertical-scroll-proportion="0.71428573">
           <folding />
         </state>
       </provider>
